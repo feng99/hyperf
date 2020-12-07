@@ -61,6 +61,9 @@ php bin/hyperf.php start
 以下扩展（包括但不限于）都会造成一定的兼容性问题，不能与之共用或共存：
 
 - xhprof
+- tideways_xhprof
+- tideways
+- uprofiler
 - xdebug
 - blackfire
 - trace
